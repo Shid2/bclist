@@ -1,0 +1,14 @@
+	.list {
+	position: relative;
+	display: block;
+	margin-left: 15%;
+	font-size: 20pt;
+	}
+	
+	com {
+	color: #bbbbbb;
+	}
+	
+	.title {
+	position: relative;
+	}
